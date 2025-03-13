@@ -1,0 +1,14 @@
+{
+  "name": "fda_api_automation",
+  "version": "1.0.0",
+  "description": "Automatizacion de APIs para Farmacias del ahorro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
